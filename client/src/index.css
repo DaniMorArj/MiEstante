@@ -28,12 +28,17 @@ body,
   height: 100%;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
   font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 button,
@@ -246,6 +251,7 @@ a {
 .main {
   padding: 28px 32px 48px;
   max-width: 1180px;
+  min-width: 0;
 }
 
 .page-title {
@@ -713,9 +719,31 @@ tbody tr:hover {
     white-space: normal;
   }
 
+  /* La columna "Venta" casi nunca tiene datos y es la menos útil en
+     pantallas estrechas: la ocultamos para que la tabla quepa mejor. */
+  th:nth-child(5),
+  td:nth-child(5) {
+    display: none;
+  }
+
   .hw-detail {
     padding: 16px;
     gap: 14px;
+  }
+
+  /* Los formularios se abren como una hoja que sube desde abajo, más cómodo
+     de usar con el teclado en pantalla que un modal centrado. */
+  .modal-overlay {
+    align-items: flex-end;
+  }
+
+  .modal {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 16px 16px 0 0;
+    max-height: 85vh;
+    overflow-y: auto;
+    padding-bottom: calc(24px + env(safe-area-inset-bottom, 0px));
   }
 }
 
