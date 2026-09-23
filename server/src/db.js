@@ -10,12 +10,19 @@ const usingTurso = Boolean(process.env.TURSO_DATABASE_URL);
 // archivo SQLite normal para poder desarrollar sin depender de la nube.
 // better-sqlite3 solo se importa en ese caso (import dinámico) para que
 // nunca haga falta compilarlo cuando ya estás usando Turso (como en Render).
-export const db = usingTurso
+const rawDb = usingTurso
   ? createClient({
       url: process.env.TURSO_DATABASE_URL,
       authToken: process.env.TURSO_AUTH_TOKEN,
     })
   : await wrapLocalSqlite();
+
+// El cliente de Turso exige que `args` esté siempre presente (aunque esté
+// vacío); esta capa lo rellena para que el resto del código pueda omitirlo
+// cuando una consulta no tiene parámetros.
+export const db = {
+  execute: (opts) => rawDb.execute({ ...opts, args: opts.args ?? {} }),
+};
 
 async function wrapLocalSqlite() {
   const { default: Database } = await import('better-sqlite3');
