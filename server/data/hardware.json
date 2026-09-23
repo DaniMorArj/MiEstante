@@ -1,0 +1,57 @@
+[
+  {
+    "consola": "PlayStation 1",
+    "modelo": "SCPH-9002C",
+    "precio_coste": 155.0
+  },
+  {
+    "consola": "PlayStation 2 Slim",
+    "modelo": "SCPH-70004CB",
+    "precio_coste": 0.0
+  },
+  {
+    "consola": "PlayStation 3 Slim",
+    "modelo": "CECH-4204C",
+    "precio_coste": 300.0
+  },
+  {
+    "consola": "PlayStation 4 Slim (1TB)",
+    "modelo": "CUH-2016B Jet Black",
+    "precio_coste": 400.0
+  },
+  {
+    "consola": "PlayStation 4 Slim (500GB)",
+    "modelo": null,
+    "precio_coste": 200.0
+  },
+  {
+    "consola": "PlayStation 5 (1TB)",
+    "modelo": null,
+    "precio_coste": 474.0
+  },
+  {
+    "consola": "PSP",
+    "modelo": "3004 PB",
+    "precio_coste": 68.0
+  },
+  {
+    "consola": "PS Vita",
+    "modelo": "PCH-1104",
+    "precio_coste": 150.0
+  },
+  {
+    "consola": "Game Boy Pocket",
+    "modelo": null,
+    "precio_coste": 17.0
+  },
+  {
+    "consola": "Game Boy Color",
+    "modelo": "CGB-001",
+    "precio_coste": 0.0
+  },
+  {
+    "consola": "PC",
+    "modelo": null,
+    "precio_coste": null
+  }
+]

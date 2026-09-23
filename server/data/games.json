@@ -1,0 +1,3898 @@
+[
+  {
+    "titulo": "Apocalypse",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "A sangre Fria",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Battle Arena Toshinden",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Batman & Robin",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Blade",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Bugs Bunny & Taz",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Bug Bunny Perdido en el tiempo",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Crash Bandicoot",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Crash Bandicoot 2: Cortex Strikes Back",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Crash Bandicoot 3: Warped",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "CTR: Crash Team Racing",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "CT Special Forces",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 46.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "CT Special Forces 2: Back to Hell",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "CT Special Forces 3: Bioterror",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 100.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "C-12: Final Resistance",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Dino Crisis",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 100.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Dino Crisis 2",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 100.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Disney: El Emperador y Sus Locuras",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Disney: Tarzan",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Disney: Hercules",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 6.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Driver",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Driver 2",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto Edicion Coleccionista",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 69.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Harry Potter y la piedra filosofal",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Harry Potter y la camara secreta",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Jungla de Cristal: La trilogia",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 11.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medal Of Honor",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 96.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medal Of Honor: Underground",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medievil",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medievil 2",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 47.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Men In Black",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mickey´s Wild Adventure",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mission: Impossible",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 22.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Oddworld: Abe´s Oddysee",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Oddworld: Abe´s Exodus",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 52.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Pequeños Guerreros",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 46.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 48.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 2",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 3 Nemesis",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 69.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Re-volt",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Silent Hill",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 100.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Syphon Filter",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Syphon Filter 2",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Syphon Filter 3",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 23.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tenchu: Stealth Assassins",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 50.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tenchu 2",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Mummy",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 60.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tomb Raider",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 11.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tomb Raider 2",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 11.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tomb Raider 3",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 11.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tomb Raider Chronicles",
+    "consola": "PlayStation 1",
+    "edicion": "Platinum",
+    "precio_coste": 11.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tomb Raider: The Last Revelations",
+    "consola": "PlayStation 1",
+    "edicion": "Black",
+    "precio_coste": 11.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "24 The Game",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Alias",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Batman Begins",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Black",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Blade 2",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Cold Fear",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "CT Special Forces: Fire For Effect",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Driver 3",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 9.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Driver Parallel Lines",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "El Padrino",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "El Señor de los Anillos: Las Dos Torres",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "El Señor de los Anillos: El Retorno del Rey",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Enter The Matrix",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 17.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "God Of War",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "God Of War 2",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto Libery City Stories",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto Vice City Stories",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Forbidden Siren Viviendo La Pesadilla",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 83.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Forbidden Siren 2",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 69.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto 3",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto Vice City",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto San Andreas",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Gun",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 6.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Harry Potter y la piedra filosofal",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 90.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Harry Potter y la cámara secreta",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Harry Potter y el prisionero de Azkaban",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Harry Potter y el cáliz de fuego",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 9.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Harry Potter y la Orden del Fénix",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Harry Potter y el misterio del príncipe",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hitman Contracts",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hitman 2: Silent Assassin",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 18.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hitman: Blood Money",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "ICO",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 45.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Just Cause",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "KillZone",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Edicion Coleccionista",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "El Regreso de la Momia",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "La Momia La Tumba del Emperador Dragon",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Los Simpsons El Videojuego",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Manhunt",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 22.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Manhunt 2",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 22.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mafia",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Max Payne",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Max Payne 2",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medal Of Honor Frontline",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 19.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medal Of Honor Rising Sun",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 19.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medal Of Honor European Assault",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 19.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medal Of Honor Vanguard",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Men In Black 2: Alien Escape",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 4.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mercenarios",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 13.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid 2: Sons of Liberty",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid 2: Substance",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid 3: Snake Eater",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid 3: Subsistance",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 69.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mission Impossible Operation Surma",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Prince Of Persia Las Arenas del Tiempo",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Prince Of Persia El Alma del Guerrero",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Prince Of Persia Las Dos Coronas",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Red Dead Revolver",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 4",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil Code Veronica X",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil Outbreak",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 23.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil Outbreak File #2",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 23.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Scarface The World Is Yours",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 5.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Shadow Of The Colossus",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Edicion Coleccionista",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Silent Hill Origins",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Silent Hill Shattered Memories",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 80.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Syphon Filter The Omega Strain",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Syphon Filter Dark Mirror",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tenchu: La Ira del Cielo",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tenchu: Fatal Shadows",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Terminator 3 Rise of the Machines",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Getaway",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Getaway: Black Monday",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Matrix: Path Of Neo",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 17.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Punisher",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 50.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Thing",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Silent Hill Collection (2,3,4)",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Edicion Coleccionista",
+    "precio_coste": 100.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Simpsons Hit and Run",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 60.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tom Clancy`s Splinter Cell",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tom Clancy`s Splinter Cell: Pandora Tomorrow",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tom Clancy`s Splinter Cell: Chaos Theory",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Lara Croft Tomb Raider: El Angel de la Oscuridad",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Lara Croft Tomb Raider: Legend",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Lara Croft Tomb Raider: Anniversary",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Lara Croft Tomb Raider: Underworld",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 17.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Total Overdose",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "True Crime Streets Of LA",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "True Crime New York City",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "XII",
+    "consola": "PlayStation 2 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed 2",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed La Hermandad",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Revelations",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Edicion Especial",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed 3",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Edicion Especial",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed 4 Black Flag",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Edicion Exclusiva",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Rogue",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Batman Arkham Asylum",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 16.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Batman Arkham City",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 16.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Batman Arkham Origins",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Dead Island Double Pack",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Double Pack",
+    "precio_coste": 17.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Dead Space",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Dead Space 2 Limited Edition",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Limited Edition",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Dead Space 3",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Demon`s Souls",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 47.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Driver San Francisco",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "El Padrino 2",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Escape Dead Island",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "El Señor de Los Anillos: La Conquista",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "El Señor de Los Anillos: La Guerra del Norte",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Fallout 3 GOTY",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "GOTY",
+    "precio_coste": 46.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Fallout New Vegas Ultimate Edition",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Ultimate Edition Essentials",
+    "precio_coste": 100.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Far Cry 2",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Far Cry 3",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Far Cry 4",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Edicion Limitada",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "God Of War Collection",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "God Of War Collection Volume 2",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 38.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "God Of War 3",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "God Of War Ascension",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 28.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto San Andrea",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto IV",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto Episodes From Liberty City",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto V",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 50.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Harry Potter y la Orden del Fénix",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Harry Potter y el misterio del príncipe",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Harry Potter y las Reliquias de la Muerte – Parte 1",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Harry Potter y las Reliquias de la Muerte – Parte 2",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 100.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hitman HD Trilogy",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Trilogy",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hitman Absolution",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Profesional Edition",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "ICO & Shadow Of Colossus Classic HD",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Just Cause 2",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Kane & Lynch: Dead Men",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Kane & Lynch 2: Dog Days",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Killzone 2",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Killzone 3",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "L.A Noire",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Edicion Completa",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "La Conspiracion Bourne",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Los Simpsons El Videojuego",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mafia 2",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Max Payne 3",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medal Of Honor Airborne",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medal Of Honor",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medal Of Honor Warfighter",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 9.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Men In Black Alien Crisis",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 14.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mercenaries 2 World In Flames",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid HD Collection",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Collection",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid IV: Guns Of The Patriots",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Platinum",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid IV: Guns Of The Patriots 25 Anniversary",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "25 Anniversary",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid V: Ground Zeroes",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid V: The Phantom Pain",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 50.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Prince Of Persia",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Prince Of Persia Trilogia",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Trilogy",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Prince Of Persia Las Arenas Olvidadas",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Red Dead Redemption GOTY",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "GOTY",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 5 Gold Edition",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 6",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "SteelBook Edition",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resistance: Fall of Man",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resistance 2",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resistance 3",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Rogue Warrior",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Saw",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 31.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Saw 2: Flesh & Blood",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 31.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Silent Hill: Homecoming",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 36.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Silent Hill Downpour",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 50.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Silent Hill HD Collection",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Collection",
+    "precio_coste": 57.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Siren Blood Curse",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 52.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Spec Ops The Line",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Sleeping Dogs",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Last Of Us",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Tomb Raider Trilogy",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Trilogy",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tom Clancy`s Splinter Cell Trilogy",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Trilogy",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tom Clancy`s Splinter Cell Double Agent",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tom Clancy`s Splinter Cell  Blacklist",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Uncharted: El Tesoro de Drake",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Uncharted 2: El Reino de Los Ladrones",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Uncharted 3: La Traicion de Drake",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Watch Dogs",
+    "consola": "PlayStation 3 Slim",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Alan Wake Remastered",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed III",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Remastered",
+    "precio_coste": 27.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Black Flag",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Chronicles",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Unit",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 16.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Rogue",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Remastered",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Syndicate",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 14.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Origins",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 16.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Odyssey",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 16.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Valhalla",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 32.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed: The Ezio Collection",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 16.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassin´s Creed Mirage",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 28.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Atomfall",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Atomic Heart",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Back 4 Blood",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Deluxe Edition",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Batman Arkham Knight",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Batman Return To Arkham",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Bioshock The Collection",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Collection",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Blair Witch",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Blasphemous",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Bloodborne GOTY",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "GOTY",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Chernobylite",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Control",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Ultimate Edition",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Crash Bandicoot N Sane Trilogy",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Crash Team Racing Nitro-Fueled",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Crash Bandicoot 4 It´s About Time",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "CupHead",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Cyberpunk 2077",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Edicion Lanzamiento",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Dark Souls Trilogy",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Trilogy",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Daymare: 1998 Black Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black Edition",
+    "precio_coste": 28.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Daymare: 1994 SandCastle",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Days Gone",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Dead Island Definitive Collection Slaughter Pack",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Definitive Collection Slaughter Pack",
+    "precio_coste": 46.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Dead Island 2",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Pull Edition",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Death Strandig",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 50.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Elden Ring",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Edicion Lanzamiento",
+    "precio_coste": 60.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Fallout 4 GOTY",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "GOTY",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Fallout 76 Tricentennial Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Tricentennial Edition",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Far Cry Primal",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Far Cry 3",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Classic Edition",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Far Cry 5 Deluxe Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Deluxe Edition",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Far Cry New Dawn Superbloom Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Superbloom Edition",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Far Cry 6 Gold Edtion",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Gold Edtion",
+    "precio_coste": 50.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Ghost Recon Wildlands",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Ghost Recon Breakpoint Auroa Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Auroa Edition",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Ghost of Tsushima",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 50.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "God Of War",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 19.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "God Of War III",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Remasterizado",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "God Of War Ragnarok",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto V",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto: The Trilogy The Definitive Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 14.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hitman Definitive Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Definitive Edition",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hitman 2 Edition Gold",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Edition Gold",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hitman 3",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hogwarts Legacy",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Horizon Zero Dawn Complete Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Complete Edition",
+    "precio_coste": 36.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Horizon Forbbiden West",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Just Cause 3",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Just Cause 4",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Killzone Shadow Fall",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "L.A Noire",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "La Tierra Media: Sombras de Mordor GOTY",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "GOTY",
+    "precio_coste": 18.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "La Tierra Media: Sombras de Guerra",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mad Max",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mafia 3",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mafia Trilogy",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Trilogy",
+    "precio_coste": 23.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medievil",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid V: The Definitive Experience",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "The Definitive Experience",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid: Master Collection Vol.1",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 38.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mortal Shell",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Oddworld Soulstorm",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 16.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Outlast Trinity",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Trinity",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Prince of Persia The Lost Crown",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 36.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Red Dead Redemption",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Red Dead Redemption 2 Special Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Special Edition",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil Origins Collection",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 2",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 3",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 3",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 4 Remake",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 5",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 6",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 7 Gold Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Gold Edition",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 8 Village",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "SteelBook",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil Revelations",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil Revelations 2",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Rise Of The Tom Raider 20 Aniversario",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Shadow Of The Colossus",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Shadow Of The Tomb Raider Definive Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Definive Edition",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Sifu",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Vengeance Edition",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Terminator 2D No Fate",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Day One Edition",
+    "precio_coste": 52.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Terminator Resistance",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 31.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tom Clancy`s The Division",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tom Clancy`s The Division 2 Washington D.C. Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Washington D.C. Edition",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Calisto Protocol",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Evil Within",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Evil Within 2",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Last Guardian",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Last Of Us Remasterizado",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Last Of Us Parte 2",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Sinking City",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Day One Edition",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tomb Raider Definitive Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Definitive Edition",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tomb Raider I-II-III",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Remastered",
+    "precio_coste": 28.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tomb Raider IV-V-VI",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Remastered",
+    "precio_coste": 24.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tormented Souls",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Uncharted 4: El Desenlace del Ladron",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Uncharted: El Legado Pedido",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Uncharted: The Nathan Drake Collection",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "UnMetal",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Edicion Coleccionista",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Watch Dogs Complete Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Complete Edition",
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Watch Dogs 2",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Watch Dogs Legion Gold Edition",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Gold Edition",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "World War Z",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "XIII",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Zombi",
+    "consola": "PlayStation 4 Slim (500GB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Ad Infinitum",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Alan Wake",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Remastered",
+    "precio_coste": 45.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Alan Wake II",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Deluxe Edition",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Black Flag Resynced",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 57.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Mirage",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Shadows",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Limited Edition",
+    "precio_coste": 34.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassins Creed Valhalla",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Astro Bot",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 45.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Atomfall",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Atomic Heart",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Ultimate Edition",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Back 4 Blood Deluxe Edition",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Deluxe Edition",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Black Myth: Wukong",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Deluxe Edition",
+    "precio_coste": 56.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Blasphemous II",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Chernobylite",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Control",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Ultimate Edition",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Crime Boss: Rockay City",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Cronos: The New Dawn",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Cyberpunk 2077",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Ultimate Edition",
+    "precio_coste": 36.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Daymare 1994: Sandcastle",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 17.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Dead Island 2",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Ultimate Edition",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Dead Space",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Dead Stranding",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Director´s Cut",
+    "precio_coste": 28.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Death Stranding 2: On the Beach",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 34.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Demon's Souls",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Elden Ring",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Shadow Of The Erdtree",
+    "precio_coste": 50.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Far cry 6",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Ghost Of Tsushima",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Director´s Cut",
+    "precio_coste": 37.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Ghost Of Yotei",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 55.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto V",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "God of War Ragnarok",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 32.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hitman World Of Assassination",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 37.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hitman World Of Assassination",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Anniversary Edition",
+    "precio_coste": 50.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hogwarts Legacy",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Horizon Zero Dawn",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Remastered",
+    "precio_coste": 17.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Horizon Forbidden West",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Complete Edition",
+    "precio_coste": 45.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Karma The Dark World",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Limited Edition",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Lies of P",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Lords of the Fallen",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 22.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Luto",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mafia The Old Country",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid Master Collection Vol.1",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid Master Collection Vol.2",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 42.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid Delta: Snake Eater",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Day One",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mindseye",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mortal Shell",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Enhanced Edition",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mortal Shell 2",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 50.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mouse P.I For Hire",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Oddworld Soulstorm",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 16.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Prince Of Persia The Lost Crown",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Prince Of Persia (The Rogue)",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Inmortal Edition",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Red Dead Redemption",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil II",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 27.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil III",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 27.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil 4",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Gold Edition",
+    "precio_coste": 32.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil VII",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Gold Edition",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resident Evil VIII Village",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Gold Edition",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Rise Of The Ronin",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Robocop: Rogue City",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Robocop: Rogue City Unfinished Business",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Sifu",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Vengeance Edition",
+    "precio_coste": 36.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Silent Hill 2",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 40.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Silent Hill f",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Day One Edition",
+    "precio_coste": 58.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Still Wakes The Deep",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 23.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Scon",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Deluxe Edition",
+    "precio_coste": 120.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Terminator 2D No Fate",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Day One Edition",
+    "precio_coste": 47.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Terminator Resistance",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Enhanced Edition",
+    "precio_coste": 70.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Callisto Protocol",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Day One Edition",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The First Berserker: Khazan",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Last Of Us I",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Remastered",
+    "precio_coste": 32.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Last Of Us II",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Remastered",
+    "precio_coste": 30.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Precinct",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Edicion Limitada",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Nightmare box Vol 1",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Nightmare box Vol 2",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 28.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Thing",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Remastered",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "The Thing",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Edicion Deluxe",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tomb Raider I-II-III",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Remastered",
+    "precio_coste": 28.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tomb Raider IV-V-VI",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Remastered",
+    "precio_coste": 24.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tormented Souls",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tormented Souls II",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 25.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Uncharted Colección Legado de los ladrones",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Remasterizado",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Watch Dogs Legion",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Black",
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "World War Z",
+    "consola": "PlayStation 5 (1TB)",
+    "edicion": "Aftermath",
+    "precio_coste": 37.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassin`s Creed: Bloodlines",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Driver 76",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 11.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Gangs Of London",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Grand Theft Auto: Chinatown Wars",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Gun Showdown",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Killzone: Liberation",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medal Of Honor Heroes",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 13.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medal Of Honor Heroes 2",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 12.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Medievil Ressurreccion",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 17.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid Portable Ops",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resistance: Retribution",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 10.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Syphon Filter: Logan`s Shadow",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 13.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tenchu Shadow Assassins",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 28.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tenchu Time Of The Assassins",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 17.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tom Clancy`s Splinter Cell Essentials",
+    "consola": "PSP",
+    "edicion": null,
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassin`s Creed Chronicles",
+    "consola": "PS Vita",
+    "edicion": null,
+    "precio_coste": 17.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Assassin`s Creed 3 Liberation",
+    "consola": "PS Vita",
+    "edicion": null,
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Batman Blackgate",
+    "consola": "PS Vita",
+    "edicion": null,
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Killzone Mercenary",
+    "consola": "PS Vita",
+    "edicion": null,
+    "precio_coste": 20.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Metal Gear Solid HD Collection",
+    "consola": "PS Vita",
+    "edicion": null,
+    "precio_coste": 60.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Resistance: Burning Skies",
+    "consola": "PS Vita",
+    "edicion": null,
+    "precio_coste": 18.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Silent Hill Book Of Memories",
+    "consola": "PS Vita",
+    "edicion": null,
+    "precio_coste": 80.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Uncharted: El Abismo de Oro",
+    "consola": "PS Vita",
+    "edicion": null,
+    "precio_coste": 15.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Unit 13",
+    "consola": "PS Vita",
+    "edicion": null,
+    "precio_coste": 7.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Game & Watch Gallery 3",
+    "consola": "Game Boy Pocket",
+    "edicion": "Solo Cartucho",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Mickey`s Dangerous Chase",
+    "consola": "Game Boy Pocket",
+    "edicion": "Solo Cartucho",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Pokemon Rojo",
+    "consola": "Game Boy Pocket",
+    "edicion": "Solo Cartucho",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Super Mario Land",
+    "consola": "Game Boy Pocket",
+    "edicion": "Solo Cartucho",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "V-Rally Championship edition",
+    "consola": "Game Boy Color",
+    "edicion": "Completo",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Warioland 2",
+    "consola": "Game Boy Color",
+    "edicion": "Completo",
+    "precio_coste": 0.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Fallout Trilogy",
+    "consola": "PC",
+    "edicion": "Trilgoy",
+    "precio_coste": 35.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Hitman Nombre en Clave 47",
+    "consola": "PC",
+    "edicion": "Micromania",
+    "precio_coste": 8.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Tom Clancy`s Splinter Cell Conviction",
+    "consola": "PC",
+    "edicion": "Black",
+    "precio_coste": 4.0,
+    "precio_venta": null,
+    "estado": "propiedad"
+  },
+  {
+    "titulo": "Crysis Remastered Trilogy",
+    "consola": "PS4",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_nuevo"
+  },
+  {
+    "titulo": "Lies of P",
+    "consola": "PS4",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_nuevo"
+  },
+  {
+    "titulo": "007 First Light",
+    "consola": "PS5",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_nuevo"
+  },
+  {
+    "titulo": "Silent Hill Townfall",
+    "consola": "PS5",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_nuevo"
+  },
+  {
+    "titulo": "Resident Eviil Requiem",
+    "consola": "PS5",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_nuevo"
+  },
+  {
+    "titulo": "Blasphemous: Martyrs Edition",
+    "consola": "PS4",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_nuevo"
+  },
+  {
+    "titulo": "Battlefield 1942",
+    "consola": "PC",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield Vietnam",
+    "consola": "PC",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield 2",
+    "consola": "PC",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield 2: Modern Combat",
+    "consola": "PS2",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield 2 Special Forces",
+    "consola": "PC",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield 2142",
+    "consola": "PC",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield: Bad Company",
+    "consola": "PS3",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield 1943",
+    "consola": "PS3",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield: Bad Company 2",
+    "consola": "PS3",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield 3",
+    "consola": "PS3",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield 4",
+    "consola": "PS3 y PS4",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield Hardline",
+    "consola": "PS3 y PS4",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield 1",
+    "consola": "PS4",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield V",
+    "consola": "PS4",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield 2042",
+    "consola": "PS4 y PS5",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Battlefield",
+    "consola": "PS5",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Dante´s Inferno",
+    "consola": "PS3",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Dark Souls 1 y 2",
+    "consola": "PS3",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Robocop",
+    "consola": "PS2",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "L.A Noire",
+    "consola": "PS4",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  },
+  {
+    "titulo": "Killzone Classic HD",
+    "consola": "PS3",
+    "edicion": null,
+    "precio_coste": null,
+    "precio_venta": null,
+    "estado": "deseado_segunda_mano"
+  }
+]
