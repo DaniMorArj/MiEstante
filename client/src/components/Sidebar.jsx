@@ -1,7 +1,7 @@
 import { getBrands, getFamilies, countForConsola, countForFamily } from '../selectors';
 import { BrandBadge, FamilyBadge } from './Badges';
 
-export default function Sidebar({ ui, setUi, hardware, stats, onLogout }) {
+export default function Sidebar({ ui, setUi, hardware, stats, onLogout, isOpen, onClose }) {
   const brands = getBrands(hardware);
 
   const goSection = (section) =>
@@ -24,10 +24,17 @@ export default function Sidebar({ ui, setUi, hardware, stats, onLogout }) {
   const selectFamilyHw = (family) => setUi({ selectedFamily: family });
 
   return (
-    <aside className="sidebar">
-      <div className="sidebar__brand">
-        Mi <span>Estante</span>
-      </div>
+    <>
+      <div className={`sidebar-backdrop ${isOpen ? 'is-open' : ''}`} onClick={onClose} />
+      <aside
+        className={`sidebar ${isOpen ? 'is-open' : ''}`}
+        onClick={() => {
+          if (window.innerWidth <= 860) onClose?.();
+        }}
+      >
+        <div className="sidebar__brand">
+          Mi <span>Estante</span>
+        </div>
 
       <div className="section-tabs">
         <button className={`tab ${ui.section === 'videojuegos' ? 'is-active' : ''}`} onClick={() => goSection('videojuegos')}>
@@ -159,6 +166,7 @@ export default function Sidebar({ ui, setUi, hardware, stats, onLogout }) {
       <div className="shelf__back" style={{ borderTop: '1px solid var(--border)', marginTop: 8 }} onClick={onLogout}>
         Cerrar sesión
       </div>
-    </aside>
+      </aside>
+    </>
   );
 }

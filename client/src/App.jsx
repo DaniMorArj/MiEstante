@@ -47,6 +47,8 @@ function Collection({ onLoggedOut }) {
   const [ui, setUiState] = useState(INITIAL_UI);
   const setUi = (patch) => setUiState((prev) => ({ ...prev, ...patch }));
 
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+
   const [gameModal, setGameModal] = useState(undefined); // { game } | {} = abierto, undefined = cerrado
   const [hwModal, setHwModal] = useState(undefined);
   const [loadError, setLoadError] = useState(null);
@@ -146,7 +148,26 @@ function Collection({ onLoggedOut }) {
 
   return (
     <div className="app">
-      <Sidebar ui={ui} setUi={setUi} hardware={hardware} stats={stats} onLogout={handleLogout} />
+      <div className="mobile-topbar">
+        <button className="hamburger-btn" onClick={() => setMobileMenuOpen(true)} aria-label="Abrir menú">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
+            <path d="M3 6h18M3 12h18M3 18h18" />
+          </svg>
+        </button>
+        <div className="mobile-topbar__brand">
+          Mi <span>Estante</span>
+        </div>
+      </div>
+
+      <Sidebar
+        ui={ui}
+        setUi={setUi}
+        hardware={hardware}
+        stats={stats}
+        onLogout={handleLogout}
+        isOpen={mobileMenuOpen}
+        onClose={() => setMobileMenuOpen(false)}
+      />
 
       <main className="main">
         {ui.section === 'consolas' ? (
