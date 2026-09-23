@@ -30,6 +30,8 @@ videojuegos-tracker/
 - **Fichas con foto y notas**, tanto de juegos como de consolas.
 - **Estado (Nuevo/Usado)** independiente de la Disponibilidad
   (En propiedad / Deseado nuevo / Deseado 2ª mano).
+- **Login**: la app pide usuario y contraseña antes de dejar ver o tocar tu
+  colección (se activa poniendo `AUTH_PASSWORD` — ver `.env.example`).
 - **Filtros y buscador**: por texto, por estado, y orden por título o precio
   en Videojuegos; buscador por nombre/modelo en Consolas.
 - **Estadísticas**: gasto total, valor de reventa, desglose por consola.

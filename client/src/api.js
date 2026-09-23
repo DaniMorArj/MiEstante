@@ -3,17 +3,24 @@ const BASE = '/api';
 async function request(path, options) {
   const res = await fetch(`${BASE}${path}`, {
     headers: { 'Content-Type': 'application/json' },
+    credentials: 'include',
     ...options,
   });
   if (!res.ok) {
     const body = await res.json().catch(() => ({}));
-    throw new Error(body.error || `Error ${res.status}`);
+    const err = new Error(body.error || `Error ${res.status}`);
+    err.status = res.status;
+    throw err;
   }
   if (res.status === 204) return null;
   return res.json();
 }
 
 export const api = {
+  login: (username, password) => request('/login', { method: 'POST', body: JSON.stringify({ username, password }) }),
+  logout: () => request('/logout', { method: 'POST' }),
+  me: () => request('/me'),
+
   getGames: (params = {}) => {
     const qs = new URLSearchParams(Object.entries(params).filter(([, v]) => v));
     return request(`/games${qs.toString() ? `?${qs}` : ''}`);

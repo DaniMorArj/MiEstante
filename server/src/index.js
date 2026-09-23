@@ -1,17 +1,20 @@
 import 'dotenv/config';
 import express from 'express';
 import cors from 'cors';
+import cookieParser from 'cookie-parser';
 import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
 import { db, initSchema } from './db.js';
+import { checkCredentials, issueSession, clearSession, hasValidSession, requireAuth, authEnabled } from './auth.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const PORT = process.env.PORT || 3001;
 
 const app = express();
-app.use(cors());
+app.use(cors({ origin: true, credentials: true }));
 app.use(express.json({ limit: '10mb' })); // las carátulas van en base64 dentro del JSON
+app.use(cookieParser());
 
 // Envuelve un handler async para que sus errores lleguen al middleware de error
 // de Express en vez de tumbar el proceso (Express 4 no captura rechazos async).
@@ -20,6 +23,30 @@ const ah = (fn) => (req, res, next) => fn(req, res, next).catch(next);
 process.on('unhandledRejection', (err) => {
   console.error('Unhandled rejection:', err);
 });
+
+// ---------- Autenticación ----------
+
+app.post('/api/login', (req, res) => {
+  const { username, password } = req.body || {};
+  if (!checkCredentials(username, password)) {
+    return res.status(401).json({ error: 'Usuario o contraseña incorrectos' });
+  }
+  issueSession(res);
+  res.json({ ok: true });
+});
+
+app.post('/api/logout', (req, res) => {
+  clearSession(res);
+  res.json({ ok: true });
+});
+
+app.get('/api/me', (req, res) => {
+  res.json({ authenticated: hasValidSession(req), authEnabled: authEnabled() });
+});
+
+// A partir de aquí, todas las rutas /api/* requieren sesión iniciada
+// (salvo que AUTH_PASSWORD no esté configurada, ver auth.js).
+app.use('/api', requireAuth);
 
 // ---------- Juegos ----------
 

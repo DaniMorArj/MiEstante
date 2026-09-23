@@ -8,6 +8,7 @@ import GameTable from './components/GameTable.jsx';
 import GameFormModal from './components/GameFormModal.jsx';
 import HardwareFormModal from './components/HardwareFormModal.jsx';
 import ConsolasView from './components/HardwareViews.jsx';
+import Login from './components/Login.jsx';
 import { BrandBadge, FamilyBadge } from './components/Badges.jsx';
 
 const INITIAL_UI = {
@@ -23,6 +24,21 @@ const INITIAL_UI = {
 };
 
 export default function App() {
+  const [authStatus, setAuthStatus] = useState('checking'); // 'checking' | 'out' | 'in'
+
+  useEffect(() => {
+    api
+      .me()
+      .then((r) => setAuthStatus(r.authenticated ? 'in' : 'out'))
+      .catch(() => setAuthStatus('out'));
+  }, []);
+
+  if (authStatus === 'checking') return null;
+  if (authStatus === 'out') return <Login onLoggedIn={() => setAuthStatus('in')} />;
+  return <Collection onLoggedOut={() => setAuthStatus('out')} />;
+}
+
+function Collection({ onLoggedOut }) {
   const [games, setGames] = useState([]);
   const [hardware, setHardware] = useState([]);
   const [consolas, setConsolas] = useState([]);
@@ -31,8 +47,8 @@ export default function App() {
   const [ui, setUiState] = useState(INITIAL_UI);
   const setUi = (patch) => setUiState((prev) => ({ ...prev, ...patch }));
 
-  const [gameModal, setGameModal] = useState(null); // { game } | null, undefined means closed
-  const [hwModal, setHwModal] = useState(null);
+  const [gameModal, setGameModal] = useState(undefined); // { game } | {} = abierto, undefined = cerrado
+  const [hwModal, setHwModal] = useState(undefined);
   const [loadError, setLoadError] = useState(null);
 
   const loadAll = async () => {
@@ -44,6 +60,10 @@ export default function App() {
       setMarcas(m);
       setLoadError(null);
     } catch (err) {
+      if (err.status === 401) {
+        onLoggedOut();
+        return;
+      }
       setLoadError(err.message);
     }
   };
@@ -94,6 +114,14 @@ export default function App() {
 
   const getFamiliesLeft = (hw) => hardware.filter((h) => h.id !== hw.id && familyOf(h.consola) === familyOf(hw.consola)).length;
 
+  const handleLogout = async () => {
+    try {
+      await api.logout();
+    } finally {
+      onLoggedOut();
+    }
+  };
+
   // ---------- Cabecera ----------
 
   const heading = () => {
@@ -118,7 +146,7 @@ export default function App() {
 
   return (
     <div className="app">
-      <Sidebar ui={ui} setUi={setUi} hardware={hardware} stats={stats} />
+      <Sidebar ui={ui} setUi={setUi} hardware={hardware} stats={stats} onLogout={handleLogout} />
 
       <main className="main">
         {ui.section === 'consolas' ? (

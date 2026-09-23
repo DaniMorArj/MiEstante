@@ -88,9 +88,15 @@ git push -u origin main
      node server/src/index.js
      ```
    - **Instance Type**: **Free**
-4. En **Environment Variables**, añade las mismas dos que usaste en el paso 2:
+4. En **Environment Variables**, añade las mismas dos que usaste en el paso 2,
+   más las tres de login (para que tu colección deje de ser pública):
    - `TURSO_DATABASE_URL`
    - `TURSO_AUTH_TOKEN`
+   - `AUTH_USERNAME` (el usuario que quieras)
+   - `AUTH_PASSWORD` (una contraseña — sin esto, **cualquiera con el enlace
+     puede editar o borrar tu colección**, así que no la dejes vacía en Render)
+   - `AUTH_SECRET` (una cadena aleatoria larga; genérala con
+     `node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"`)
 5. **Create Web Service**. El primer build tarda unos minutos (instala
    dependencias y compila el frontend). Cuando termine, tu app estará en
    `https://mi-estante.onrender.com` (o el nombre que hayas elegido).

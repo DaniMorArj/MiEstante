@@ -1,7 +1,7 @@
 import { getBrands, getFamilies, countForConsola, countForFamily } from '../selectors';
 import { BrandBadge, FamilyBadge } from './Badges';
 
-export default function Sidebar({ ui, setUi, hardware, stats }) {
+export default function Sidebar({ ui, setUi, hardware, stats, onLogout }) {
   const brands = getBrands(hardware);
 
   const goSection = (section) =>
@@ -155,6 +155,10 @@ export default function Sidebar({ ui, setUi, hardware, stats }) {
           </ul>
         </>
       )}
+      <div style={{ flex: 1 }} />
+      <div className="shelf__back" style={{ borderTop: '1px solid var(--border)', marginTop: 8 }} onClick={onLogout}>
+        Cerrar sesión
+      </div>
     </aside>
   );
 }
