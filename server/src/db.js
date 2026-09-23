@@ -1,5 +1,4 @@
 import { createClient } from '@libsql/client';
-import Database from 'better-sqlite3';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
@@ -9,14 +8,17 @@ const usingTurso = Boolean(process.env.TURSO_DATABASE_URL);
 
 // En local, si no hay credenciales de Turso configuradas, seguimos usando un
 // archivo SQLite normal para poder desarrollar sin depender de la nube.
+// better-sqlite3 solo se importa en ese caso (import dinámico) para que
+// nunca haga falta compilarlo cuando ya estás usando Turso (como en Render).
 export const db = usingTurso
   ? createClient({
       url: process.env.TURSO_DATABASE_URL,
       authToken: process.env.TURSO_AUTH_TOKEN,
     })
-  : wrapLocalSqlite();
+  : await wrapLocalSqlite();
 
-function wrapLocalSqlite() {
+async function wrapLocalSqlite() {
+  const { default: Database } = await import('better-sqlite3');
   const local = new Database(path.join(__dirname, '..', 'coleccion.local.db'));
   local.pragma('journal_mode = WAL');
   // Adaptador mínimo para que el resto del código pueda usar siempre
